@@ -2,7 +2,8 @@
 
 ![photo](/exercise_sem01/PHOTOS_exercise_sem01/pokemon-go-how-to-get-shiny-genesect.png)
 
-Je n'ais aucune photo de moi alors voici une photo de genesect. C'est un de mes pokémons favoris.
+Je n'ais aucune photo de moi alors voici une photo de genesect. C'est un de mes pokémons favoris. 
+Voici aussi une vidéo d'un de mes film pokémon favori (c'est celui avec genesect)
 <https://youtu.be/Tn5BvytJooA>
 
 ## *Interet dans le multimédia*
