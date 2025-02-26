@@ -22,13 +22,12 @@ photo de la pancarte du dispositif. 2024-2025,
 Les gestes technique est un dispositif trouvé dans la première zone du Banquet nommée la cuisine. Toutes activités trouvés dans la section sont conçue pour apprendre à l'utilisateur comment cuisiner.  
 Le dispositif lui meme nous apprend comment utiliser 2 utensil de cuisine: Le fouet et la pate à roulette.
 
-![image](/TP1/centre_des_sciences/medias/activite_creme_au_fouet.jpg) ![image](/TP1/centre_des_sciences/medias/activite_pate_a_roulette.jpg)
+Voici plusieurs photos de l'oeuvre:
+![image](/TP1/centre_des_sciences/medias/activite_creme_au_fouet.jpg) ![image](/TP1/centre_des_sciences/medias/activite_pate_a_roulette.jpg)   
+
+Et voici une photo de la mise en espace.
 ![image](/TP1/centre_des_sciences/medias/geste_technique_zone_espace.jpg)
 
-
-
-![photo](/TP1/centre_des_sciences/medias/zone_cuisine.jpg)
-
-photos de la déscription de la zone
+### Composant et technique
 
 
