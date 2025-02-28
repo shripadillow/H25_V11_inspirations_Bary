@@ -1,1 +1,1 @@
-Ce sous-document contients toutes le photos prises ou sauvegarder en liens avec l'exposition finissant
+Ce sous-document contients toutes le photos  , croquis ou autres necessaires pour la documentation de l'exposition finissant.
