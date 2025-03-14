@@ -1,6 +1,8 @@
-# Tout les projet dans l'expo Résonance en ordre de préference
+# Exposition Résonances
 
-## 1. Étheria
+## Toutes les oeuvre en ordre de préference
+
+### 1. Étheria
 
 ![image](/TIM_resonance/medias/croquis/plantation_etheria_nouveau.jpg)
 
@@ -13,7 +15,7 @@ Victor Gileau
 Joshua Gonzalez-Barrera  
 Pierre-Luc Proulx  
 
-## 2. Prismatica
+### 2. Prismatica
 
 ![image](/TIM_resonance/medias/croquis/plantation_prisma.jpg)
 
@@ -23,7 +25,7 @@ Jérémy Duverseau
 Vincent Delisle  
 
 
-## 3. Internature
+### 3. Internature
 
 ![image](/TIM_resonance/medias/croquis/plantation_internature.jpg)
 
@@ -35,7 +37,7 @@ Khaly Tia Sing
 Sitmonternna Yi  
 
 
-## 4. Arcadia
+### 4. Arcadia
 
 ![image](/TIM_resonance/medias/croquis/plantation_arcadia.png)
 
@@ -45,7 +47,7 @@ Dominic Yale
 William Beauvais  
 
 
-## 5. Luminatura
+### 5. Luminatura
 ![image](/TIM_resonance/medias/croquis/plantation_luminatura.jpg)
 ![image](/TIM_resonance/medias/croquis/plantation_luminatura_studio.png)
 *deux photos du schéma d'installation, la première montre la structure de base et la deuxième nous montre la plantation dans le studios*
@@ -59,7 +61,7 @@ Justine Rousseau
 Prethiah Rajaratnam  
 
 
-## 6. Fuga
+### 6. Fuga
 
 ![image](/TIM_resonance/medias/croquis/plantation_fuga.png)
 ![image](/TIM_resonance/medias/croquis/plantation_fuga_face.png)
@@ -73,7 +75,7 @@ Tristan Khadka
 Yavuz-Selim Gucluer  
 
 
-## 7. C0N DU8
+### 7. C0N DU8
 
 
 ![image](/TIM_resonance/medias/croquis/plantation_c0ndu8.png)
@@ -83,3 +85,6 @@ Ian Corbin
 Jérémy Roy-Coté  
 Keven Malric  
 Samuel Desmeules-Voyer  
+
+
+## Reflexion pérsonnel
