@@ -32,7 +32,10 @@ Le dispositif est trouver à l'intérieur du grand studio avec 3 autres oeuvres.
 
 ### Composant et techniques
 
-Le dispositif contient 3 choses: Un projecteur et trois Pions
+Le dispositif contient 2 composant principale: Un **projecteur** et **trois Pions**.  
+
+Le projecteur est connecter à un ordinateur qui projecte les images sur l'ecran du projecteur. L'ordinateur est aussi connecter à une carte de sons qui va transmettre l'audio dans les haut-parleur.  
+
 
 
 
