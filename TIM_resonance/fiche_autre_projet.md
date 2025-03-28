@@ -1,4 +1,6 @@
 # Exposition Résonances
+*Tous les liens concernant l'installation des dispositifs se retrouvent dans le fichier [source_croquis](/TIM_resonance/medias/croquis/source_croquis.md) du dossier medias*
+
 
 ## Toutes les oeuvre en ordre de préference
 
@@ -131,3 +133,9 @@ Yavuz-Selim Gucluer
 
 
 ## Reflexion pérsonnel
+Après mon expérimentation , j'ai vu qu'il à trois choses qui est trouvé dans presque tout les projet:  
+- La programmation interractive/web
+- L'audio
+- et l'illustration
+
+Un des composants que je ne connaissais pas était **le capteurs de mouvement** utilisé dans Étheria. Étheria utilisent des libraries de capteur de movements (Aruco et OpenCV) ainsi qu'une webcam pour que le mouvement des pions soit détecter.
