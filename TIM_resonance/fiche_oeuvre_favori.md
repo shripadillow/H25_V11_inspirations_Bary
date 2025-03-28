@@ -32,12 +32,14 @@ Le dispositif est trouver à l'intérieur du grand studio avec 3 autres oeuvres.
 
 Le dispositif contient 2 composant principale: Un **projecteur** et **trois Pions**.  
 ![image](/TIM_resonance/medias/etheria_projecteur.jpg)  
-*photo du diapositif qui montre les composants* [^3]  
+*photo du projecteur et des pions* [^3]  
 
 Le projecteur est connecter à un ordinateur qui projecte les images sur son écran. L'ordinateur est aussi connecter à une carte de sons qui va transmettre l'audio dans les haut-parleur. De plus, il y a un capteur de mouvement qui permet le mouvement des pions d'être détecter.  
-Chaque pion est associé un personnage différent.
+Chaque pion est aussi associé un personnage différent.
 
-
+## Mon experience
+Choissir une exposition pour ce TP étais difficile, car ils avaient tous quelque choses à offrir. Cependant, j'ai choisi Étheria puisque les jeux vidéo ont toujours eu une très grande place dans ma vie, et de voir ce que les finissants on pu faire m'a inspiré.  
+Cependant, je ferrai en sorte que les personnages bougent un peu plus rapidemont. les personnages bougeait un peu lentement comparer au pions ce qui rendait l'expérience un peu moin agréable. C'est un problème sachant que la difficulté des manches montent de plus en plus.
 
 
 
