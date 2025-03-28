@@ -4,7 +4,9 @@
 
 ### 1. Étheria
 
+#### Plantation
 ![image](/TIM_resonance/medias/croquis/plantation_etheria_nouveau.jpg)
+#### Installation
 ![images](/TIM_resonance/medias/etheria_installation02.jpg)
 
 
@@ -18,8 +20,10 @@ Pierre-Luc Proulx
 
 ### 2. Prismatica
 
+#### Plantation
 ![image](/TIM_resonance/medias/croquis/plantation_prisma.jpg)
-![images](/prismatica_installation.jpg)
+#### Installation
+![images](/TIM_resonance/medias/prismatica_installation.jpg)
 
 crédit:  
 Ikrame Rata  
@@ -28,8 +32,9 @@ Vincent Delisle
 
 
 ### 3. Internature
-
+#### Plantation
 ![image](/TIM_resonance/medias/croquis/plantation_internature.jpg)
+#### Insallation
 ![image](/TIM_resonance/medias/internature_installation.jpg)
 
 crédit:  
@@ -41,7 +46,7 @@ Sitmonternna Yi
 
 
 ### 4. Arcadia
-
+#### Plantation
 ![image](/TIM_resonance/medias/croquis/plantation_arcadia.png)
 
 crédit:  
@@ -51,9 +56,12 @@ William Beauvais
 
 
 ### 5. Luminatura
+#### Plantation
 ![image](/TIM_resonance/medias/croquis/plantation_luminatura.jpg)
 ![image](/TIM_resonance/medias/croquis/plantation_luminatura_studio.png)
 *deux photos du schéma d'installation, la première montre la structure de base et la deuxième nous montre la plantation dans le studios*
+#### Installation
+![image](/TIM_resonance/medias/luminatura_ecran.jpg)
 
 
 crédit:  
@@ -65,10 +73,11 @@ Prethiah Rajaratnam
 
 
 ### 6. Fuga
-
+#### Plantation
 ![image](/TIM_resonance/medias/croquis/plantation_fuga.png)
 ![image](/TIM_resonance/medias/croquis/plantation_fuga_face.png)
 *deux photos du schéma d'installation, la deuxième étant la vue de face.*
+#### Instalation
 
 ![image](/TIM_resonance/medias/fuga_activite_installation_ecran.jpg)
 
@@ -82,7 +91,7 @@ Yavuz-Selim Gucluer
 
 ### 7. C0N DU8
 
-#### Plantation:
+#### Plantation
 ![image](/TIM_resonance/medias/croquis/plantation_c0ndu8.png)  
 #### Installation
 ![image](/TIM_resonance/medias/c0n-du8_installation.jpg)
