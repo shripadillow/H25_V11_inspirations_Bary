@@ -19,6 +19,7 @@ Pierre-Luc Proulx
 ### 2. Prismatica
 
 ![image](/TIM_resonance/medias/croquis/plantation_prisma.jpg)
+![images](/prismatica_installation.jpg)
 
 crédit:  
 Ikrame Rata  
@@ -29,6 +30,7 @@ Vincent Delisle
 ### 3. Internature
 
 ![image](/TIM_resonance/medias/croquis/plantation_internature.jpg)
+![image](/TIM_resonance/medias/internature_installation.jpg)
 
 crédit:  
 Kenza El Harrif  
@@ -68,6 +70,8 @@ Prethiah Rajaratnam
 ![image](/TIM_resonance/medias/croquis/plantation_fuga_face.png)
 *deux photos du schéma d'installation, la deuxième étant la vue de face.*
 
+![image](/TIM_resonance/medias/fuga_activite_installation_ecran.jpg)
+
 crédit:
 Abdel Ali Djeral  
 Daniel Dezemma  
@@ -78,8 +82,9 @@ Yavuz-Selim Gucluer
 
 ### 7. C0N DU8
 
-
-![image](/TIM_resonance/medias/croquis/plantation_c0ndu8.png)
+#### Plantation:
+![image](/TIM_resonance/medias/croquis/plantation_c0ndu8.png)  
+#### Installation
 ![image](/TIM_resonance/medias/c0n-du8_installation.jpg)
 ![images](/TIM_resonance/medias/c0n-du8_installation_ecran.jpg)
 
