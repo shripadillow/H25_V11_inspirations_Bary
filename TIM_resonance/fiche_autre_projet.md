@@ -5,6 +5,7 @@
 ### 1. Étheria
 
 ![image](/TIM_resonance/medias/croquis/plantation_etheria_nouveau.jpg)
+![images](/TIM_resonance/medias/etheria_installation02.jpg)
 
 
 
@@ -79,6 +80,9 @@ Yavuz-Selim Gucluer
 
 
 ![image](/TIM_resonance/medias/croquis/plantation_c0ndu8.png)
+![image](/TIM_resonance/medias/c0n-du8_installation.jpg)
+![images](/TIM_resonance/medias/c0n-du8_installation_ecran.jpg)
+
 crédit:
 Alexandre Gervais  
 Ian Corbin  
