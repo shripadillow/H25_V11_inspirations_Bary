@@ -1,6 +1,6 @@
 # Expo centre PHI
-![images]()
-*photo de moi en phase du centre PHI*
+![images]()  
+*photo de moi en phase du centre PHI*  
 *date de visite:*
 
 
