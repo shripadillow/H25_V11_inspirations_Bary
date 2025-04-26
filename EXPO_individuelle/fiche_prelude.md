@@ -58,8 +58,10 @@ https://github.com/user-attachments/assets/7b5752cd-ba9f-4e83-b8c4-f7882475cb70
 À l'intérieur de la salle, il y a **des projecteurs** qui sert à montrer le montage. Il semble avoir 6 projection differentes.  
 De plus, le montage vidéos est defois interrompu par de l'éxposition \(comme vous le voyez dans la section fonction\). Il y'a un écrans accrocher sur la platform. Il montrent des sous-titres en français et en anglais.  
 Il y'a aussi des haut-parleur autour de la salle.
-  
-  
 
+  
+## Experience Personnel
+Le visiteur est attendu de s'immerser dans la vie de Jean-Marc Vallée. il y avait \(si je me rappelle bien\) des sièges pour que les visiteurs puisse regarder the montage. C'étais comme aller regarder un filme. 
+À mon avis, j'ai bien aimé mon expèrience. Bien que ça soit le montage lui mème, la maisonette qui semblait être influencée par l'histoire, ou just le fait que ça soit la premiere fois que je suis allé à une exposition tout seule, j'ai cru que cela soit quelque chose de nouveau que je n'avais jamais vecu avant.  
 
-## Opinion personnel
+Cependant, je sent que la maisonette n'était pas assez utilisée . Durant ma visite, j'ai réalisé qu'il y avait peu de gens qui regardait ce qui se passait avec la maisonette en faveur du montage. J'ai réalisé que , même si les effet lumiére qui entourait la maisonette changeait, on éte que forcé à y mettre de l'attention une ou deux fois durant la durée du dispositif . Je mettrai alors plus de focus sur la maisonette en le deplaçant plus proche du projecteur derrière ou l'audience est supposé d'être.
