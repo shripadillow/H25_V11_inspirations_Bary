@@ -46,11 +46,20 @@ https://github.com/user-attachments/assets/7b5752cd-ba9f-4e83-b8c4-f7882475cb70
 
 ### Composants et techniques
 
-Il ya plusieurs composant à l'intérieur du dispositif:
-- La maison au bout de la salle
+**Il ya plusieurs composant à l'intérieur du dispositif:**
+- Une platform qui contient au bout de la salle une structure qui ressemble à une maisonette
+- Des lumières LED autour de la maison qui changent de couleur depedament de ce qui est monter dans la video.
 
+  
+![images](/EXPO_individuelle/media/prelude_maisonette.jpg)  
+*Photo de la maisonette*
 
 ### Mise en exposition
+À l'intérieur de la salle, il y a **des projecteurs** qui sert à montrer le montage. Il semble avoir 6 projection differentes.  
+De plus, le montage vidéos est defois interrompu par de l'éxposition \(comme vous le voyez dans la section fonction\). Il y'a un écrans accrocher sur la platform. Il montrent des sous-titres en français et en anglais.  
+Il y'a aussi des haut-parleur autour de la salle.
+  
+  
 
 
 ## Opinion personnel
